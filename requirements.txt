@@ -1,0 +1,10 @@
+matplotlib
+seaborn
+pandas
+scikit-learn
+joblib
+python-dotenv
+kafka-python
+pyspark
+streamlit
+plotly
